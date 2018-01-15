@@ -1,0 +1,7 @@
+.classpath
+.DS_Store
+.project
+org.eclipse.wst.common.component
+org.eclipse.jdt.core.prefs
+.settings
+build/classes
